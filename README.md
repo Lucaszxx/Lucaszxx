@@ -2,8 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=545454&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Lucas+Gomes;I'm+19+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Lucaszxx&bg_color=000000&color=ffffff&line=9e4c98&point=db48d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lucaszxx&theme=react)](https://github.com/Lucaszxx/github-readme-activity-graph)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lucaszxx&show_icons=true&count_private=true&hide_border=true&title_color=ffff&icon_color=9c00be&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Gomes github stats" /> 
